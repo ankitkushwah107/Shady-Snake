@@ -1,0 +1,11 @@
+# Imp points
+
+- It should take away the resonsibily of loading shaders and resources from the use
+
+- support for drawing bitmaps and primtives(circle,quad,triangle,point,line).
+
+- support for 2D camera system
+
+- support for audio
+
+- support for 

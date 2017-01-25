@@ -1,0 +1,22 @@
+﻿  Game.cpp
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(80): warning C4316: 'Snake': object allocated on the heap may not be aligned 16
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(83): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(132): warning C4316: 'Snake': object allocated on the heap may not be aligned 16
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(432): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(457): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(457): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(458): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(458): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(491): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(491): warning C4316: 'orb': object allocated on the heap may not be aligned 16
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(510): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(510): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(511): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(511): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(529): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(529): warning C4316: 'EnemySnake': object allocated on the heap may not be aligned 16
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(535): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(574): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\shady snake\shady snake\game.cpp(595): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Shady Snake.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\Shady Snake\Debug\Shady Snake.exe
+  Shady Snake.vcxproj -> C:\Users\admin\Documents\Visual Studio 2015\Projects\Shady Snake\Debug\Shady Snake.pdb (Partial PDB)
