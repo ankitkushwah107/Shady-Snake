@@ -1,6 +1,6 @@
 # Shady Snake
 
-I made this game for Global Game Jam 2017
+I made this game for Global Game Jam 2017. I used my custom engine with OpenGL graphics API. The Gameplay is inspired from slithe.io. 
 
 # Compilation 
 
